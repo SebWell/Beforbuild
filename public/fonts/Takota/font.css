@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: 'Takota';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(21bdcb16-83ed-4c12-8ecf-89be39f62dc3.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Takota';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(17a57ee3-45f6-4e14-9187-339cef2d29d8.otf) format('truetype');
+}

@@ -1,0 +1,69 @@
+{
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "b393e663-4d69-49b3-b461-29060ad759e3",
+        "name": "Charts",
+        "designId": "ae6bc3cd-e209-4f89-8eea-368ab778f543",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "1dc45d32-dc47-4308-891a-37b9c27250f4",
+        "name": "Date",
+        "designId": "ae6bc3cd-e209-4f89-8eea-368ab778f543",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "2adce8d5-2056-479d-a21a-068f55a8077f": {
+        "id": "da2c631b-bb09-42a5-a8d3-156ed4a60a63",
+        "name": "Mapbox",
+        "designId": "ae6bc3cd-e209-4f89-8eea-368ab778f543",
+        "pluginId": "2adce8d5-2056-479d-a21a-068f55a8077f",
+        "publicData": {}
+    },
+    "69d4a5bb-09a3-4f3d-a94e-667c21c057eb": {
+        "id": "e116fb16-1804-4866-a9e3-6b56389c2b17",
+        "name": "NPM",
+        "designId": "ae6bc3cd-e209-4f89-8eea-368ab778f543",
+        "pluginId": "69d4a5bb-09a3-4f3d-a94e-667c21c057eb",
+        "publicData": {
+            "packages": []
+        }
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "f3fc77e8-6162-4457-b029-c3aa9c15ddcf",
+        "name": "REST API",
+        "designId": "ae6bc3cd-e209-4f89-8eea-368ab778f543",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "bb63e878-570c-4458-88e1-e768298fba9f",
+        "name": "Supabase",
+        "designId": "ae6bc3cd-e209-4f89-8eea-368ab778f543",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpocGljZWFvYnN4d3dpaGV5c2xoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQwMTg0MDcsImV4cCI6MjA1OTU5NDQwN30.mIuqbR40NPPfkj6EqTUllTsi84GV5avz6v3XZkQrkwY",
+            "projectUrl": "https://zhpiceaobsxwwiheyslh.supabase.co",
+            "realtimeTables": {}
+        }
+    },
+    "d66a250d-8468-469e-ad33-ee028f632398": {
+        "id": "5fffc66f-10bd-479a-9790-84c6b46aed1e",
+        "name": "OpenAI",
+        "designId": "ae6bc3cd-e209-4f89-8eea-368ab778f543",
+        "pluginId": "d66a250d-8468-469e-ad33-ee028f632398",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "38dd8095-fc76-47a4-b3a7-70052605ed45",
+        "name": "Supabase Auth",
+        "designId": "ae6bc3cd-e209-4f89-8eea-368ab778f543",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpocGljZWFvYnN4d3dpaGV5c2xoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQwMTg0MDcsImV4cCI6MjA1OTU5NDQwN30.mIuqbR40NPPfkj6EqTUllTsi84GV5avz6v3XZkQrkwY",
+            "projectUrl": "https://zhpiceaobsxwwiheyslh.supabase.co",
+            "afterForbiddenPageId": "696b697e-fbed-407d-b070-fbd7696e5a29",
+            "afterNotSignInPageId": "696b697e-fbed-407d-b070-fbd7696e5a29"
+        }
+    }
+}
